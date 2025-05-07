@@ -268,3 +268,4 @@ if __name__ == "__main__":
     export_to_csv(doctors_data)
     print(f"Les résultats ont été exportés dans le fichier 'doctors_data.csv'.")
     print("Nombre total de médecins collectés : ", len(doctors_data))
+    driver.quit()
