@@ -75,7 +75,7 @@ Les résultats sont exportés dans un fichier CSV nommé `doctors_data.csv`. Ce 
 - Le script dépend de la structure HTML de Doctolib. Toute modification de cette structure peut casser le script.
 - Le script est conçu pour fonctionner avec Firefox et Geckodriver.
 
-## Axe d'amelioration
+## Axe d'ameliorations
 
 - Meilleur utilisation des WebDriverWait car avec l'utilisation que j'en faisais, cela me creer des conflits
 - Ajouter la gestion de recuperation du prix de la consultation
